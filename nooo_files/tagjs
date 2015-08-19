@@ -1,0 +1,2 @@
+_pa.setPartners({mrin:true,fbx:true,goo:true,yah:true,pub:true,twtr:true,liv:true})
+_pa.looperReady()
