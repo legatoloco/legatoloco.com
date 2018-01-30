@@ -1,4 +1,4 @@
 # legatoloco.com
 the future home of anything legatoloco.com.
 //adding 
-appending from code
+appending from codeappending from code
